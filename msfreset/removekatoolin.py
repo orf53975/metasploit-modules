@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # command - removekatoolin
+
+import os
+import sys, traceback
+
 infile = "/etc/apt/sources.list"
 outfile = "/etc/apt/sources.list"
 
