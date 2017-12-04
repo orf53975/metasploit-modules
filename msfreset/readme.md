@@ -16,7 +16,6 @@ wget https://raw.githubusercontent.com/josephworks/metasploit-modules/master/msf
 ls
 cp msfreset.sh /usr/bin/msfreset
 cp removekatoolin.py /usr/bin/removekatoolin
-chmod +x /usr/bin/msfreset
-chmod +x /usr/bin/removekatoolin
+chmod +x /usr/bin/msfreset && chmod +x /usr/bin/removekatoolin
 sudo msfreset
 ```
