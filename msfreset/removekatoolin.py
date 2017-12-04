@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # command - removekatoolin
-echo "Starting!"
-echo "Removing Katoolin sources list"
 infile = "/etc/apt/sources.list"
 outfile = "/etc/apt/sources.list"
 
