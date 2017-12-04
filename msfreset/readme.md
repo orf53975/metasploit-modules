@@ -1,6 +1,7 @@
 # MsfReset
 
 A tool to reset metasploit!
+Some code is from lionsec/katoolin
 
 # How-to:
 
