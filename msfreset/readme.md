@@ -10,5 +10,6 @@ A tool to reset metasploit!
 Run the following commands:
 
 sudo su
-
+wget https://raw.githubusercontent.com/josephworks/metasploit-modules/master/msfreset/msfreset.sh
+wget
 ```
