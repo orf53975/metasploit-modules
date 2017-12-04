@@ -10,6 +10,13 @@ A tool to reset metasploit!
 Run the following commands:
 
 sudo su
+mkdir temp
+cd temp
 wget https://raw.githubusercontent.com/josephworks/metasploit-modules/master/msfreset/msfreset.sh
-wget
+wget https://raw.githubusercontent.com/josephworks/metasploit-modules/master/msfreset/removekatoolin.py
+cp msfreset.sh /usr/bin/msfreset
+cp removekatoolin.py /usr/bin/removekatoolin
+chmod +x /usr/bin/msfreset
+chmod +x /usr/bin/removekatoolin
+sudo msfreset
 ```
