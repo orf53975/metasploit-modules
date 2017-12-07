@@ -14,6 +14,7 @@ This was made for medasploit addons so you put this in your ./.msf4/exploits fol
 # The Exploit Database Repository
 ---
 
+> Info: The biggest log was 20 MB, about 1/4 of a million of lines
 This is the official repository of [The Exploit Database](https://www.exploit-db.com/), a project sponsored by [Offensive Security](https://www.offensive-security.com/).
 
 The Exploit Database is an archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers. Its aim is to serve as the most comprehensive collection of exploits gathered through direct submissions, mailing lists, and other public sources, and present them in a freely-available and easy-to-navigate database. The Exploit Database is a repository for exploits and proof-of-concepts rather than advisories, making it a valuable resource for those who need actionable data right away.
